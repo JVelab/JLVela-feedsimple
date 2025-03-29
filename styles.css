@@ -1,0 +1,57 @@
+
+/* div {
+    border: 1px solid black;
+}
+*/
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+img {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.tittle {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.feed {
+    width: 100%;
+    background-color: lightgray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.post {
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.photoTittle {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.number {
+    color: grey;
+    align-content: center;
+}
+
+.description {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
